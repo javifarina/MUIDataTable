@@ -1,0 +1,72 @@
+[
+    {
+      "id": 5816769,
+      "name": "Deb Trivedi",
+      "email": "deb_trivedi@bednar-watsica.example",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 5816768,
+      "name": "Rev. Rupinder Ahluwalia",
+      "email": "ahluwalia_rev_rupinder@balistreri-boyle.example",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 5816766,
+      "name": "Lakshman Nehru MD",
+      "email": "nehru_lakshman_md@damore.example",
+      "gender": "female",
+      "status": "active"
+    },
+    {
+      "id": 5816763,
+      "name": "Brahmanandam Nayar",
+      "email": "brahmanandam_nayar@kilback-schimmel.example",
+      "gender": "female",
+      "status": "inactive"
+    },
+    {
+      "id": 5816762,
+      "name": "Rev. Swami Varman",
+      "email": "varman_rev_swami@schinner.example",
+      "gender": "male",
+      "status": "inactive"
+    },
+    {
+      "id": 5816759,
+      "name": "Bhadraksh Chopra",
+      "email": "chopra_bhadraksh@russel.example",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 5816755,
+      "name": "Rukhmani Pillai",
+      "email": "rukhmani_pillai@olson-schaefer.test",
+      "gender": "female",
+      "status": "active"
+    },
+    {
+      "id": 5816754,
+      "name": "Ujjawal Khan DO",
+      "email": "ujjawal_do_khan@hane.test",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 5816752,
+      "name": "Bhuvanesh Desai",
+      "email": "desai_bhuvanesh@cremin-kuvalis.example",
+      "gender": "male",
+      "status": "inactive"
+    },
+    {
+      "id": 5816750,
+      "name": "Tanirika Ahluwalia",
+      "email": "tanirika_ahluwalia@ortiz-daugherty.example",
+      "gender": "male",
+      "status": "active"
+    }
+  ]
